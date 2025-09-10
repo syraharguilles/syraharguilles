@@ -3,11 +3,6 @@
 A passionate, dedicated, and goal-driven front-end developer with **11+ years** of experience designing, developing, and optimizing responsive, user-centric web applications. I focus on **performance (Core Web Vitals)**, **accessibility (semantic HTML/ARIA)**, **design systems**, and maintainable, scalable code.
 
 ---
-
-- 🔭 **I’m currently working on:** performance-first UIs, accessible design systems, headless CMS migrations, and e-commerce experiences.
-- 🌱 **I’m currently learning:** SvelteKit, advanced TypeScript patterns, GraphQL, Docker, and testing strategies with Vitest.
-- 👯 **I’m looking to collaborate on:** content platforms, design systems/component libraries, and data-heavy interfaces.
-- 💬 **Ask me about:** Core Web Vitals, semantic HTML/ARIA, Tailwind CSS, WordPress/WooCommerce, SvelteKit/React, Laravel, Sanity, GraphQL/REST.
 - 📫 **How to reach me:**  
   Email — **syrahmaearguilles@gmail.com**  
   GitHub — **https://github.com/syraharguilles**  
